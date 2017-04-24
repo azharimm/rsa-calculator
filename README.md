@@ -1,7 +1,7 @@
 # rsa-calculator
 A simple app to calculate the public key, private key and encrypt decrypt message using the RSA algorithm.
 
-#How to use it
+## How to use it
 >Step 1. Find two random prime number (more than 100 better)
 
 >Step 2. Choose the value of 1 mod phi
